@@ -1,0 +1,76 @@
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe.config
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\bin\Debug\BouraniZdiHra.pdb
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.AssemblyReference.cache
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.SuggestedBindingRedirects.cache
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.Form1.resources
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.Properties.Resources.resources
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.GenerateResource.cache
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.CoreCompileInputs.cache
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.exe
+C:\Users\loppa\source\repos\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.pdb
+D:\BouraniZdiHra\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe.config
+D:\BouraniZdiHra\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe
+D:\BouraniZdiHra\BouraniZdiHra\bin\Debug\BouraniZdiHra.pdb
+D:\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.csprojAssemblyReference.cache
+D:\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.Form1.resources
+D:\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.Properties.Resources.resources
+D:\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.GenerateResource.cache
+D:\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.CoreCompileInputs.cache
+D:\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.exe
+D:\BouraniZdiHra\BouraniZdiHra\obj\Debug\BouraniZdiHra.pdb
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.AssemblyReference.cache
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.SuggestedBindingRedirects.cache
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.Form1.resources
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.Properties.Resources.resources
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.GenerateResource.cache
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.CoreCompileInputs.cache
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.exe
+D:\BouraniZdiHra - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.pdb
+D:\BouraniZdiHra - kopie\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe.config
+D:\BouraniZdiHra - kopie\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe
+D:\BouraniZdiHra - kopie\BouraniZdiHra\bin\Debug\BouraniZdiHra.pdb
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.AssemblyReference.cache
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.SuggestedBindingRedirects.cache
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.Form1.resources
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.Properties.Resources.resources
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.GenerateResource.cache
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.CoreCompileInputs.cache
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.exe
+D:\Projekt IKT\BouraniZdiHra\obj\Debug\BouraniZdiHra.pdb
+D:\Projekt IKT\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe.config
+D:\Projekt IKT\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe
+D:\Projekt IKT\BouraniZdiHra\bin\Debug\BouraniZdiHra.pdb
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe.config
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.AssemblyReference.cache
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.SuggestedBindingRedirects.cache
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.Form1.resources
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.Properties.Resources.resources
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.GenerateResource.cache
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.CoreCompileInputs.cache
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.exe
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\obj\Debug\BouraniZdiHra.pdb
+D:\Projekt IKT - kopie (2)\BouraniZdiHra\bin\Debug\BouraniZdiHra.pdb
+D:\zachrana - kopie - kopie\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe.config
+D:\zachrana - kopie - kopie\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.AssemblyReference.cache
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.SuggestedBindingRedirects.cache
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.Form1.resources
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.Properties.Resources.resources
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.GenerateResource.cache
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.CoreCompileInputs.cache
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.exe
+D:\zachrana - kopie - kopie\BouraniZdiHra\obj\Debug\BouraniZdiHra.pdb
+D:\zachrana - kopie - kopie\BouraniZdiHra\bin\Debug\BouraniZdiHra.pdb
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe.config
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\bin\Debug\BouraniZdiHra.exe
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\bin\Debug\BouraniZdiHra.pdb
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.AssemblyReference.cache
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.SuggestedBindingRedirects.cache
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.Form1.resources
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.Properties.Resources.resources
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.GenerateResource.cache
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.csproj.CoreCompileInputs.cache
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.exe
+C:\Users\naive\source\repos\IKT---main\BouraniZdiHra\obj\Debug\BouraniZdiHra.pdb
